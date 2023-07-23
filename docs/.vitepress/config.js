@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base:'/py-js-c/',
+  base:'/vitepressdocs/',
   lang: 'zh-CN',
   title: "java面试文档",
   description: "简单的Java面试文档",
